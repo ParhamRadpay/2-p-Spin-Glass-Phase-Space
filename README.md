@@ -1,1 +1,2 @@
 # 2-p-Spin-Glass-Phase-Space
+Here we present the code that we used for our simulations used in the letter "Constructing low temperature phase diagram for “2+p”-quantum spin glass from nonperturbative renormalization group". The code basically consist of two parts. First parts that produces the simulations and saves the data in a .txt file and a second one which reads and plots the data from the .txt file. 
